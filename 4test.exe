@@ -1,0 +1,5 @@
+r=12
+echo $r
+echo $r
+echo "hello"$r
+echo "hello"$r
